@@ -1,6 +1,10 @@
 # Changelog
 
-## [Unreleased] (2.0.0)
+## v2.0.1 - 2026-11-04
+
+- Descriere și keywords unificate pentru Packagist; homepage corectat.
+
+## v2.0.0
 
 Rescriere completă, ca furnizor pentru `webrteu/invoicing` 2.x. **Incompatibil cu 1.x.**
 

@@ -1,15 +1,16 @@
 {
     "name": "webrteu/smartbill",
-    "description": "SmartBill provider for webrteu/invoicing (Romania)",
+    "description": "SmartBill driver for webrteu/invoicing (Laravel, Romania)",
     "type": "library",
     "license": "MIT",
     "keywords": [
         "laravel",
         "romania",
-        "smartbill",
-        "facturare"
+        "invoicing",
+        "facturare",
+        "smartbill"
     ],
-    "homepage": "https://github.com/WeBRTeu/smartbill",
+    "homepage": "https://github.com/BrTDevil/webrteu-smartbill",
     "authors": [
         {
             "name": "WeBRTeu",
